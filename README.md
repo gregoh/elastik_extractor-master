@@ -1,4 +1,4 @@
-Summary
+Summaries
 ====================
 Elastik Wav Extractor is a tool used to extract files from Ueberschall's Elastik
 Soundbank format while preserving the directory structure.
